@@ -1,0 +1,13 @@
+{
+  "dataset_type": "synthetic_demo",
+  "buyers": 2000,
+  "properties": 10000,
+  "sold_properties": 7305,
+  "total_realized_sales_usd": 2860760934.4199996,
+  "segment_counts": {
+    "Residential-Focused Buyers": 1085,
+    "Mixed-Portfolio Buyers": 864,
+    "High-Volume Property Buyers": 51
+  },
+  "disclaimer": "Entirely fictional demonstration data. Segment labels are simulated, not predictions from the trained internship clustering model."
+}
